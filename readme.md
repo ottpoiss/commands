@@ -11,10 +11,7 @@ $ git commit -m "first commit"
 <h2>To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.</h2>
 $ git remote add origin https://github.com/ottpoiss/commands.git
 
-<h2>Use git push to push commits made on your local branch to a remote repository.
-
-The git push command takes two arguments:
-
+<h2>Use git push to push commits made on your local branch to a remote repository.The git push command takes two arguments:
 A remote name, for example, origin
 A branch name, for example, master</h2>
 
