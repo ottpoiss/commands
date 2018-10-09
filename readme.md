@@ -18,4 +18,4 @@ The git push command takes two arguments:
 A remote name, for example, origin
 A branch name, for example, master</h2>
 
-$ git push -u origin master
+git push -u origin master
